@@ -9,6 +9,7 @@ A segurança viária é uma preocupação global. Acidentes de trânsito não ap
 ## Dados Utilizados
 
 O projeto utiliza dados de acidentes de trânsito e informações geoespaciais de estradas. Os dados foram obtidos a partir de fontes confiáveis e atualizados para permitir análises precisas.
+dados do Instituto Brasileiro de Geografia e Estatística arquivo csv: demostrativo_acidentes_bahia.csv
 
 ## Principais Análises
 
